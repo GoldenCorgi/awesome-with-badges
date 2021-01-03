@@ -4,7 +4,7 @@
   <a href="https://github.com/goldencorgi/awesome-with-badges">
     <img src="images/daftpunkpoggers.png" alt="Logo" >
   </a>
-  <p align="center">Harder, Better, Faster, Poggers</p>
+  <p align="center">"i only date guys with repos that have > 1k stars"</p>
 
   <h2 align="center">Awesome List with Badges</h2>
 
@@ -51,9 +51,9 @@ Q: but but, this is discrimatory against repos with smaller number of stars that
 
 A: yeah, like all my other repos
 
-Q: i have a personal question
+Q: but i like to waste a huge amount of time figuring out which repo is good for each category
 
-A: lets keep it that way
+A: weirdchamp
 
 
 <!-- ROADMAP -->
