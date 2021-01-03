@@ -4,7 +4,7 @@
   <a href="https://github.com/goldencorgi/awesome-with-badges">
     <img src="images/daftpunkpoggers.png" alt="Logo" >
   </a>
-  <p align="center">"i only date guys with repos that have > 1k stars"</p>
+  <p align="center">"i only date people with repos that have > 1k stars"</p>
 
   <h2 align="center">Awesome List with Badges</h2>
 
