@@ -3625,11 +3625,19 @@ Q: but i like to waste a huge amount of time figuring out which repo is good for
 
 A: weirdchamp
 
+Q: holy shit did you just make me download 5mb worth of badges?
+
+A: pogchamp
+
 
 <!-- ROADMAP -->
 ## Roadmap
 
+actually want (edit: already done) to cache the badges so i dont utterly destroy shields'io server
+
 actually want to automate this using github actions, wow? a ci/cd idea that isn't trash? holy shit
+
+
 
 
 <!-- ACKNOWLEDGEMENTS -->
