@@ -121,9 +121,10 @@ for i in listpog2:
     title = i[1].split("/")[1]
     desc = i[0]
     newurl = i[1]
-    originalURL = f"github.com/{i[1]}"
+    urlWithUnderscore = newurl.replace("/","_")
+    originalURL = f"https://github.com/{i[1]}"
     badge = f"[![GitHub stars](https://img.shields.io/github/stars/.svg)](https://GitHub.com/{newurl}/stargazers/)"
-    badgeURL = f"awesome/{newurl}.md"
+    badgeURL = f"awesome/{urlWithUnderscore}.md"
 
     strx = strx + f"""
       <!-- ** {title} -->
